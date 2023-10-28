@@ -1,5 +1,9 @@
+![Codewars](https://github.r2v.ch/codewars?user=skttlock&stroke=blue)
 ### Hi there 👋
+Right now, I'm focused on learning Cystal!
 
+
+_thanks to @Dinifarb for the Codewars stats example!_
 <!--
 **skttlock/skttlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
